@@ -1,0 +1,9 @@
+D:\Documentos\Virtuales\Modelamiento\Semana07\DataSiConectada\bin\Debug\DataSiConectada.exe.config
+D:\Documentos\Virtuales\Modelamiento\Semana07\DataSiConectada\bin\Debug\DataSiConectada.exe
+D:\Documentos\Virtuales\Modelamiento\Semana07\DataSiConectada\bin\Debug\DataSiConectada.pdb
+D:\Documentos\Virtuales\Modelamiento\Semana07\DataSiConectada\obj\Debug\DataSiConectada.csprojAssemblyReference.cache
+D:\Documentos\Virtuales\Modelamiento\Semana07\DataSiConectada\obj\Debug\DataSiConectada.Form1.resources
+D:\Documentos\Virtuales\Modelamiento\Semana07\DataSiConectada\obj\Debug\DataSiConectada.Properties.Resources.resources
+D:\Documentos\Virtuales\Modelamiento\Semana07\DataSiConectada\obj\Debug\DataSiConectada.csproj.GenerateResource.cache
+D:\Documentos\Virtuales\Modelamiento\Semana07\DataSiConectada\obj\Debug\DataSiConectada.exe
+D:\Documentos\Virtuales\Modelamiento\Semana07\DataSiConectada\obj\Debug\DataSiConectada.pdb
